@@ -20,7 +20,7 @@ Este repositório contém os arquivos de código fonte e as soluções para a at
 ### Instruções para a Atividade
 
 1. [Exercício 1: Manipulação de Arrays](exercicio1/README.md)
-2. [Exercício 2: Manipulação de Strings Estilo C](exercicio2/README.md)
+2. [Exercício 2: Manipulação de Strings Estilo C++](exercicio2/README.md)
 3. [Exercício 3: Arrays Multidimensionais](exercicio3/README.md)
 
 ---
